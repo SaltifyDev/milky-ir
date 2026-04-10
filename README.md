@@ -1,3 +1,9 @@
+> [!important]
+>
+> 从 Milky 1.2.1 开始，IR 以 [@saltify/milky-protocl](https://www.npmjs.com/package/@saltify/milky-protocol) 的形式在 npmjs Registry 上发布，可以通过 `npm i`、CDN 等方式来获取 IR JSON 内容，此仓库仅用于保存 1.1.0 和 1.2.0 的 IR JSON 文件。
+
+---
+
 # Milky IR 简介
 
 > 本文档内容由 AI 生成，如有不准确之处，请以 [Milky 官方文档](https://milky.ntqqrev.org/)为准。
